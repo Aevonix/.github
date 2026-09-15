@@ -16,7 +16,7 @@ We develop local agentic systems, incubate AI projects and support the pursuit o
   <img alt="PacoMind" src="https://raw.githubusercontent.com/Aevonix/.github/main/profile/assets/pacomind-compact-light.svg" width="280">
 </picture>
 
-Our work toward PAGI (Pseudo-AGI) is open source and ongoing. [PacoMind](https://github.com/Aevonix/PacoMind) is part of that research: built for Hermes, it stores agent memory, identity and shared work independently of the models it uses, with support for local inference.
+Our work toward PAGI (Proto-AGI) is open source and ongoing. [PacoMind](https://github.com/Aevonix/PacoMind) is part of that research: built for Hermes, it stores agent memory, identity and shared work independently of the models it uses, with support for local inference.
 
 [PacoMind logo downloads](https://aevonix.com/brand/current/pacomind-logos.zip) · [Brand guide](https://aevonix.com/brand/current/brand-guide.pdf)
 
