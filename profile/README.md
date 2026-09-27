@@ -32,4 +32,4 @@ We have supported several NVIDIA B300 deployments across Central America and the
 
 We are launching HPC investment SPVs in 2027.
 
-[Website](https://aevonix.com) · [Branding & press kit](https://aevonix.com/branding) · [Maggie@aevonix.com](mailto:Maggie@aevonix.com)
+[Website](https://aevonix.com) · [Branding & press kit](https://aevonix.com/branding) · [contact@aevonix.com](mailto:contact@aevonix.com)
