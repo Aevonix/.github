@@ -10,16 +10,6 @@ We develop local agentic systems, incubate AI projects and support the pursuit o
 
 ### Research
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aevonix/.github/main/profile/assets/protagine-compact-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aevonix/.github/main/profile/assets/protagine-compact-light.svg">
-  <img alt="Protagine" src="https://raw.githubusercontent.com/Aevonix/.github/main/profile/assets/protagine-compact-light.svg" width="280">
-</picture>
-
-Our work toward Proto-AGI is open source and ongoing. [Protagine](https://github.com/Aevonix/Protagine) (Proto AGI Engine) is a mind for [Hermes](https://github.com/NousResearch/hermes-agent) agents: persistent, source-backed memory across conversations, channels and model changes; commitments it keeps; drives that notice what matters and take initiative within the owner's authority; outreach that learns from the owner's replies; and typed decisions with an optional fast local decision model. It attaches to stock Hermes, runs on local inference, and measures every capability against stock Hermes by paired ablation. V1 of the Proto-AGI line is out, with its evidence and its open gaps in the repository.
-
-[Protagine logo downloads](https://aevonix.com/brand/current/protagine-logos.zip) · [Brand guide](https://aevonix.com/brand/current/brand-guide.pdf)
-
 **Open recipes.** [MiMo V2.6 Pro RL on eight DGX Sparks](https://github.com/Aevonix/mimo-2.6-dgx-spark): vLLM patches, a DFlash recipe and reproducible results.
 
 ### HPC equipment and operations
